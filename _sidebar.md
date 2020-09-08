@@ -7,8 +7,10 @@
   * [金融](./aaa.md) 
   * [心理学](./aaa.md) 
 * **产品语言** 
-  * [UML语言](./uml.md)
-  * [markdown语言](./markdown.md)
+  * [UML](./uml.md)
+  * [markdown](./markdown.md)
+  * [R](./R.md)
+  * [python](./python.md)
 * **产品认知** 
 * **产品规划** 
   * [产品战略](./product-strategy.md)
