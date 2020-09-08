@@ -8,11 +8,11 @@
   * [心理学](./aaa.md) 
 * **产品语言** 
   * [UML语言](./uml.md)
-  * [markdown语言](markdown.md)
+  * [markdown语言](./markdown.md)
 * **产品认知** 
 * **产品规划** 
   * [产品战略](./product-strategy.md)
-  * [产品组合] (./aaa.md) 
+  * [产品组合](./aaa.md)
   * [产品工具] 
   * [产品流程] 
   * [生命周期管理] 
