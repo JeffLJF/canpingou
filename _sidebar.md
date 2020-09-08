@@ -8,7 +8,7 @@
   * [心理学](./aaa.md) 
 * **产品认知** 
 * **产品规划** 
-  * [产品战略](/product-strategy.md)
+  * [产品战略](./product-strategy.md)
   * [产品组合] 
   * [产品工具] 
   * [产品流程] 
