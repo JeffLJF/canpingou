@@ -1,11 +1,14 @@
 * [引言](./README.md)
 * **思维建设** 
-  * [批判性思维](./ppxsw.md) 
+  * [批判性思维](./critical%20thinking.md) 
   * [数学](./aaa.md) 
   * [数据统计与分析](./aaa.md) 
   * [语文](./aaa.md) 
   * [金融](./aaa.md) 
   * [心理学](./aaa.md) 
+* **产品语言** 
+  * [UML语言](./uml.md)
+  * [markdown语言](markdown.md)
 * **产品认知** 
 * **产品规划** 
   * [产品战略](/product%20strategy.md)
