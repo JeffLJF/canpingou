@@ -1,0 +1,8 @@
+# critical thinking
+
+## A
+
+## B
+
+
+
