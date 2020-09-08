@@ -1,6 +1,6 @@
 * [引言](./README.md)
 * **思维建设** 
-  * [批判性思维](./critical-thinking.md) 
+  * [批判性思维](./critical-thinking.md)
   * [数学](./aaa.md) 
   * [数据统计与分析](./aaa.md) 
   * [语文](./aaa.md) 
