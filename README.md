@@ -1,4 +1,2 @@
-# canpingou
-xxx
-dsjfskfsjfsl sfs
-# test
+# 惨品狗实验室
+考虑个人知识局限性，所表明、所写、所引或有不恰当或不完美地方，欢迎见谅与讨论
