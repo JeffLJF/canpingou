@@ -16,7 +16,7 @@
 * **产品规划** 
   * [产品战略](./product-strategy.md)
   * [产品组合](./aaa.md)
-  * [产品工具](./aaa.md)
+  * [产品工具](./product-tools.md)
   * [产品流程](./aaa.md)
   * [生命周期管理](./aaa.md)
 * **产品设计** 
