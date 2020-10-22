@@ -19,7 +19,8 @@
   * [产品工具](./product-tools.md)
   * [产品流程](./newproductflow.md)
   * [组织文化团队](./team.md)
-  * [生命周期管理](./aaa.md)
+    [市场研究](./marketresearch.md)
+  * [生命周期管理](./lifecyclemanagement.md)
 * **产品设计** 
 * **产品工具** 
 * **食药监saas项目** 
