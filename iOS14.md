@@ -34,7 +34,7 @@
 |iPhone 11专业版Max	|414x896 pt（1242x2688 px @ 3x）|
 |iPhone 11专业版	|375x812点（1125x2436 px @ 3x）|
 |iPhone 11|	414x896 pt（828x1792 px @ 2x）|
-|iPhone X |S最大	414x896 pt（1242x2688 px @ 3x）|
+|iPhone XS最大 |414x896 pt（1242x2688 px @ 3x）|
 |iPhone X S	|375x812点（1125x2436 px @ 3x）|
 |iPhone X R|	414x896 pt（828x1792 px @ 2x）|
 |iPhone X	|375x812点（1125x2436 px @ 3x）|
