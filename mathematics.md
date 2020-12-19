@@ -23,7 +23,7 @@ a^3^-b^3^=(a-b)(a^2^+ab+b^2^);
 
 
 
-## 公式表达式 
+### 公式表达式 
 乘法与因式分 a2-b2=(a+b)(a-b)    a3+b3=(a+b)(a2-ab+b2)   a3-b3=(a-b(a2+ab+b2) 
 三角不等式 |a+b|≤|a|+|b|    |a-b|≤|a|+|b|    |a|≤b<=>-b≤a≤b 
            |a-b|≥|a|-|b|      -|a|≤a≤|a| 
@@ -34,7 +34,7 @@ a^3^-b^3^=(a-b)(a^2^+ab+b^2^);
         b2-4ac>0 注：方程有两个不等的实根 
         b2-4ac<0 注：方程没有实根，有共轭复数根 
 
-## 三角函数公式 
+### 三角函数公式 
 两角和公式 
 sin(A+B)=sinAcosB+cosAsinB sin(A-B)=sinAcosB-sinBcosA 
 cos(A+B)=cosAcosB-sinAsinB cos(A-B)=cosAcosB+sinAsinB 
@@ -79,7 +79,7 @@ ctgA+ctgBsin(A+B)/sinAsinB -ctgA+ctgBsin(A+B)/sinAsinB
 斜棱柱体积 V=S'L 注：其中,S'是直截面面积， L是侧棱长 
 柱体体积公式 V=s*h 圆柱体 V=pi*r2h
 
-## 数与代数A：数与式： 
+### 数与代数A：数与式： 
 1：有理数 
 有理数：①整数→正整数/0/负整数 ②分数→正分数/负分数 
 数轴：①画一条水平直线，在直线上取一点表示0（原点），选取某一长度作为单位长度，规定直线上向右的方向为正方向，就得到数轴 
