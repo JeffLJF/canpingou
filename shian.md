@@ -1,1 +1,1 @@
-[政府端所有文档]（https://shimo.im/docs/JX9PvqWkDQCxjGRT/ 《食安云联产品所有历史文档》，可复制链接后用石墨文档 App 或小程序打开）
+[政府端所有文档]（https://shimo.im/docs/JX9PvqWkDQCxjGRT/）
