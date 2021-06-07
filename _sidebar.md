@@ -30,7 +30,7 @@
   * [C端服务APP](./wcdCAPP.md)
   * [司机端APP](./wcdBAPP.md)
 * **食安saas项目** 
-  * [业务术语](./aaa.md)
+  * [业务术语](./shian.md)
   * [政府监管平台](./aaa.md)
   * [商家报备平台](./aaa.md)
    *[商家报备平台](./aaa.md)
