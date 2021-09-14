@@ -108,3 +108,32 @@ ctgA+ctgBsin(A+B)/sinAsinB -ctgA+ctgBsin(A+B)/sinAsinB
 3：代数式 
 代数式：单独一个数或者一个字母也是代数式。 
 合并同类项：①所含字母相同，并且相同字母的指数也相同的项，叫做同类项。②把同类项合并成一项就叫做合并同类项。③在合并同类项时，我们把同类项的系数相加，字母和字母的指数不变。
+
+
+### MATLAB版贪心算法
+
+% greedy algorithm(GA)贪心/贪婪算法
+
+%购入了 numBottles 瓶酒
+num_bottles = input('please input the number of bottles:');
+%用 numExchange 个空酒瓶可以兑换一瓶新酒
+num_exchange = input('please input the number of exchange:');
+
+%初始化
+sumb = num_bottles;  % 喝到酒的数目
+empty = num_bottles;  % 空瓶数目
+
+%贪心：当前喝完所有饮料后变为空瓶加上已有空瓶后，最大限度的、贪心的兑换饮料，依次类推，
+% 直到手上的空瓶不足以兑换出一瓶饮料止。
+
+while fix(empty / num_exchange) ~= 0 
+    % fix函数用于取整数商，表示当前空瓶还能兑换酒时：进入循环；否则不足以兑换酒：循环退出
+    bottle = fix(empty / num_exchange);  % 利用当前空瓶最大限度地兑换酒，得到当前酒的数目
+    sumb = sumb + bottle;  % 更新喝到酒的数目
+    empty = mod(empty,num_exchange) + bottle; %更新空瓶数目:空瓶=兑换后剩余空瓶+兑换得到的酒瓶
+end
+
+sumb %最终喝到酒的瓶数
+————————————————
+版权声明：本文为CSDN博主「踏乡墨客」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/weixin_41008284/article/details/108659604
